@@ -14,7 +14,6 @@ import mykmeanssp as kc
 import numpy as np
 
 
-
 # maximum capacity properties
 MAX_ITER = 300
 N_2D = 550
